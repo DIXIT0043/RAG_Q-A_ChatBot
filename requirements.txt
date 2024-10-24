@@ -11,7 +11,7 @@ lxml
 langchain-openai
 chromadb
 langchain-community
-sentence_transformers ## this liberary has the hf embeddings
+sentence_transformers
 langchain_huggingface
 tdqm
 faiss-cpu
@@ -24,3 +24,4 @@ streamlit
 PyPDF2
 python-docx
 python_docx
+langchain_groq
