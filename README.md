@@ -1,4 +1,4 @@
-#### RAG Document Q&A with Groq and Llama3
+## RAG Document Q&A with Groq and Llama3
 
 ### This project is a Streamlit application that allows users to upload PDF and DOCX documents,
 ### process them, and ask questions based on the content of the documents using a Retrieval-Augmented Generation (RAG) approach.
