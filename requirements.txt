@@ -1,0 +1,26 @@
+langchain
+python-dotenv  
+langchain_community
+pypdf
+beautifulsoup4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+lxml
+langchain-openai
+chromadb
+langchain-community
+sentence_transformers ## this liberary has the hf embeddings
+langchain_huggingface
+tdqm
+faiss-cpu
+pandas 
+chromadb
+langchain_chroma
+langchain-huggingface
+beautifulsoup4
+streamlit
+PyPDF2
+python-docx
+python_docx
