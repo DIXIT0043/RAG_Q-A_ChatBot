@@ -23,7 +23,7 @@ groq_api_key = os.getenv("GROQ_API_KEY")
 
 # Initialize embeddings and model
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-llm = ChatGroq(groq_api_key=groq_api_key, model_name="Llama3-8b-8192")
+llm = ChatGroq(groq_api_key=groq_api_key, model_name="deepseek-r1-72b")
 
 # Prompt template
 prompt = ChatPromptTemplate.from_template(
